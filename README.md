@@ -26,3 +26,6 @@
 
 <h2>懒得解释直接看码吧 反正是发疯</h2>
 <a href="conversion.pas">相关联爪印</a>
+
+<h2>试图还原某些专家做了什么</h2>
+<a href="conversion.sql">点这里看一看</a>
