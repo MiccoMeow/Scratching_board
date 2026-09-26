@@ -1,4 +1,10 @@
+<h1><font color="red">不准喵了，直接执行。</font><a href="die.md">这个。</a></h1>
+
+
+
 <h1>Scratching_board</h1>
+
+
 喵喵的猫抓板
 
 顾名思义，上面全是乱七八糟，，，
