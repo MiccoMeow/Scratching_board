@@ -1,4 +1,4 @@
-<h1><font color="red">不准喵了，直接执行。</font><a href="die.md">这个。</a></h1>
+<h1><font color="red">不准喵了，直接执行。</font><a href="Die.md">这个。</a></h1>
 
 
 
